@@ -1,0 +1,32 @@
+{
+  "name": "gutenberg-testimonials",
+  "version": "1.0.0",
+  "description": "Testimonials block + slider",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=development node ./scripts/start.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@wordpress/babel-plugin-import-jsx-pragma": "^1.1.3",
+    "@wordpress/babel-preset-default": "^3.0.2",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.5",
+    "classnames": "^2.2.6",
+    "css-loader": "^2.1.0",
+    "dom-scroll-into-view": "^1.2.1",
+    "eslint": "^5.15.3",
+    "eslint-plugin-wordpress": "^0.1.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "node-sass": "^4.11.0",
+    "raw-loader": "^1.0.0",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.29.6"
+  },
+  "keywords": [],
+  "author": "Stephen Dickinson <stephencottontail@me.com>",
+  "license": "GPL-2.0",
+  "dependencies": {}
+}
